@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resumen de Evaluación</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f4f4f9; padding: 20px; }
+        header { background: #4CAF50; color: white; padding: 20px; text-align: center; }
+        main { background: white; padding: 20px; max-width: 800px; margin: 20px auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h2 { color: #4CAF50; }
+        ul { padding-left: 20px; }
+        footer { text-align: center; margin-top: 40px; color: #666; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Resumen de Evaluación</h1>
+    </header>
+    <main>
+        <p>Según tus respuestas, parece que estás experimentando algunos desafíos en el manejo del estrés y la vida diaria, como lo indican algunas puntuaciones más bajas...</p>
+
+        <h2>Recomendaciones Prácticas</h2>
+        <ul>
+            <li>Practica ejercicios físicos regularmente.</li>
+            <li>Mantén una alimentación saludable.</li>
+            <li>Duerme bien.</li>
+            <li>Conéctate con otras personas.</li>
+            <li>Aprende técnicas de gestión del estrés.</li>
+            <li>Busca ayuda profesional si es necesario.</li>
+        </ul>
+
+        <h2>Recursos Sugeridos</h2>
+        <ul>
+            <li><a href="https://www.mindful.org/how-to-practice-mindfulness/" target="_blank">Cómo practicar mindfulness</a></li>
+            <li><a href="https://www.helpguide.org/articles/stress/stress-management.htm" target="_blank">Manejo del estrés</a></li>
+            <li><a href="https://www.youtube.com/watch?v=O-6f5wCU1oA" target="_blank">Meditación guiada</a></li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2025 Tu Empresa de Bienestar</p>
+    </footer>
+</body>
+</html>
