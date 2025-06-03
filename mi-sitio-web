@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bienestar Personal</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background: #f5f7fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #4CAF50;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      margin-top: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    h2 {
+      color: #4CAF50;
+    }
+    ul {
+      list-style-type: '✅ ';
+      padding-left: 1.5rem;
+    }
+    a {
+      color: #4CAF50;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+    @media (max-width: 600px) {
+      body {
+        padding: 0 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Bienestar Personal</h1>
+    <p>Evaluación, recomendaciones y recursos para tu salud emocional</p>
+  </header>
+
+  <section>
+    <h2>Resumen de Evaluación</h2>
+    <p>Según tus respuestas, parece que estás enfrentando algunos desafíos en las áreas de manejo del estrés y la vida diaria. Aunque tu estado emocional, autoestima y relaciones parecen estar generalmente estables, es importante abordar de manera proactiva los factores estresantes en tu vida.</p>
+    <p>Te recomiendo explorar técnicas para reducir el estrés, como mindfulness, ejercicio o pasar tiempo en la naturaleza. Si el estrés persiste o empeora, busca apoyo profesional para desarrollar estrategias personalizadas.</p>
+  </section>
+
+  <section>
+    <h2>Recomendaciones Prácticas</h2>
+    <ul>
+      <li>Practica ejercicio físico regularmente</li>
+      <li>Mantén una alimentación saludable</li>
+      <li>Duerme bien y con regularidad</li>
+      <li>Conéctate con personas significativas</li>
+      <li>Aprende técnicas de gestión del estrés (como meditación o yoga)</li>
+      <li>Consulta con un profesional si lo necesitas</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Recursos Sugeridos</h2>
+    <ul style="list-style-type: none;">
+      <li><a href="https://www.mindful.org/how-to-practice-mindfulness/" target="_blank">Cómo practicar mindfulness</a></li>
+      <li><a href="https://www.helpguide.org/articles/stress/stress-management.htm" target="_blank">Guía para el manejo del estrés</a></li>
+      <li><a href="https://www.youtube.com/watch?v=O-6f5wCU1oA" target="_blank">Meditación guiada para principiantes (YouTube)</a></li>
+      <li><a href="https://www.anxietycanada.com/articles/what-is-anxiety/" target="_blank">¿Qué es la ansiedad?</a></li>
+      <li><a href="https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself" target="_blank">Cuidarse a uno mismo (CCI)</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contacto</h2>
+    <p>¿Tienes preguntas o deseas apoyo profesional?</p>
+    <p><strong>Email:</strong> contacto@tuempresa.com</p>
+    <p><strong>WhatsApp:</strong> +57 300 000 0000</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Bienestar Personal | Todos los derechos reservados
+  </footer>
+
+</body>
+</html>
+
